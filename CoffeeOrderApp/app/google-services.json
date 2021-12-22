@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521991321597",
+    "project_id": "coffee-order-app-d3f99",
+    "storage_bucket": "coffee-order-app-d3f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521991321597:android:b64999d81078ff77bb0b94",
+        "android_client_info": {
+          "package_name": "com.bitto.coffeeorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521991321597-ejignsb5t1e262mngq9t1umchg4p4du8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWw7WpenrniDGU2_esKLjOTfg0uaJ96rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521991321597-ejignsb5t1e262mngq9t1umchg4p4du8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
